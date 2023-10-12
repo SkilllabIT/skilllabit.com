@@ -1,0 +1,12 @@
+.nav-logo{
+    height: 37px;
+    width: 37px;
+}
+.fh5co-logo{
+    min-width: 150px;
+}
+.logo-footer{
+    background-image: url(../images/skill_lab_2-removebg-preview.png);
+    background-size: cover;
+    background-position: center;
+}
